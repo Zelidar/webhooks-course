@@ -3,7 +3,7 @@
 # Understanding how Webhooks work
 
 [![Watch the video on freeCodeCamp](https://img.youtube.com/vi/41NOoEz3Tzc/maxresdefault.jpg)](https://youtu.be/41NOoEz3Tzc)
-This repository contains detailed notes and code for the Understanding Webhooks course 💡
+This repository contains detailed notes and code for the Understanding Webhooks course on YouTube 💡
 
 * [🚀 Code](./code)
 * [📚 Notes](notes.md)
